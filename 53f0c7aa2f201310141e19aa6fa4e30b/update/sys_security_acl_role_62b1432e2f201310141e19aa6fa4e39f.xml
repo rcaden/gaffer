@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-17 14:26:03</sys_created_on>
+        <sys_id>62b1432e2f201310141e19aa6fa4e39f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_187393_gaffer_player.x_187393_gaffer.editor</sys_name>
+        <sys_package display_value="Gaffer" source="x_187393_gaffer">53f0c7aa2f201310141e19aa6fa4e30b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gaffer">53f0c7aa2f201310141e19aa6fa4e30b</sys_scope>
+        <sys_security_acl display_value="x_187393_gaffer_player">62b1432e2f201310141e19aa6fa4e381</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_62b1432e2f201310141e19aa6fa4e39f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-17 14:26:03</sys_updated_on>
+        <sys_user_role display_value="x_187393_gaffer.editor" name="x_187393_gaffer.editor">a7f0c7aa2f201310141e19aa6fa4e35d</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
