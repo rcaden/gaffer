@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_187393_gaffer_player">x_187393_gaffer_player</category>
+        <maximum_digits>5</maximum_digits>
+        <number>1</number>
+        <prefix>PL</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-17 14:25:58</sys_created_on>
+        <sys_id>21b1cfea2f201310141e19aa6fa4e312</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PL</sys_name>
+        <sys_package display_value="Gaffer" source="x_187393_gaffer">53f0c7aa2f201310141e19aa6fa4e30b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gaffer">53f0c7aa2f201310141e19aa6fa4e30b</sys_scope>
+        <sys_update_name>sys_number_21b1cfea2f201310141e19aa6fa4e312</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-17 14:25:58</sys_updated_on>
+    </sys_number>
+</record_update>
